@@ -91,7 +91,8 @@
                 "sha256:bfc7150eaf809b1c283879302f04c42791136060c6eeb12c0c6674fb1291fae5"
             ],
             "index": "pypi",
-            "version": "==2.4.4"
+            "version": "==2.5.1"
+            #"version": "==2.4.4"
         },
         "greenlet": {
             "hashes": [
